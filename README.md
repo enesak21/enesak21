@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🚀 About Me
 - I’m currently working on game development with LÖVE
+- I have experience in computer vision and 3D modeling, specializing in advanced 3D reconstruction techniques.
 - 📫 How to reach me: enesak21@ku.edu.tr
 
 ## 🌐 Languages
