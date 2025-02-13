@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
 ## 📈 GitHub Stats
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesak21&show_icons=true&theme=radical)
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesak21&show_icons=true&count_private=true&theme=radical)
 
 
 Thanks for visiting my profile!
