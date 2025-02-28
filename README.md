@@ -1,4 +1,4 @@
-# Hi there, I'm Enes 👋
+[# Hi there, I'm Enes 👋
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -6,6 +6,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - I’m currently working on game development with LÖVE
 - I have experience in computer vision and 3D modeling, specializing in advanced 3D reconstruction techniques.
 - How to reach me: enesak21@ku.edu.tr
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ak-42b759353/)
+
 
 ## 🌐 Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,3 +26,4 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 
 Thanks for visiting my profile!
+](https://www.linkedin.com/in/enes-ak-42b759353/)
